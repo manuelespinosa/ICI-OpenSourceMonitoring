@@ -1,0 +1,13 @@
+{
+  "title": "Scripts Docentes para Instrumentación Computacional Inteligente",
+  "creators": [
+    {
+      "name": "Espinosa Gavira, Manuel Jesús",
+      "affiliation": "Universidad de Cádiz"
+    }
+  ],
+  "description": "Scripts en Python para monitorización energética usados en prácticas de Instrumentación Computacional Inteligente, Máster en Investigación en Ingeniería de Sistemas y de la Computación, curso 2024-2025.",
+  "license": "mit",
+  "keywords": ["software docente", "instrumentación", "MQTT", "energía"],
+  "publication_date": "2025-06-05"
+}
