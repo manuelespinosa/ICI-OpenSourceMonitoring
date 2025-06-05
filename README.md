@@ -1,6 +1,6 @@
 # ICI-OpenSourceMonitoring
 
-Scripts docentes para la asignatura **Instrumentación Computacional Inteligente (ICI)** del **Máster en Investigación en Ingeniería de Sistemas y de la Computación** en la Universidad de Cádiz.
+Script docente para la asignatura **Instrumentación Computacional Inteligente (ICI)** del **Máster en Investigación en Ingeniería de Sistemas y de la Computación** en la Universidad de Cádiz.
 
 ## Descripción
 Este repositorio contiene scripts en Python desarrollados para la docencia de la asignatura **Instrumentación Computacional Inteligente (ICI)** durante el curso académico 2024-2025. Los scripts permiten la monitorización en tiempo real de datos energéticos (demanda y generación eléctrica) obtenidos de la API de Red Eléctrica de España (REE) y su publicación en un broker MQTT para análisis en sistemas inteligentes. Fueron utilizados en **prácticas de laboratorio** para enseñar a los estudiantes conceptos de instrumentación, adquisición de datos y comunicación en sistemas computacionales.
